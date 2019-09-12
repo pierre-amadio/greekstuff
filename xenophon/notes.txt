@@ -1,2 +1,33 @@
 https://geoffreysteadman.com/xenophon-anabasis-i/
 
+wget https://geoffreysteadman.files.wordpress.com/2018/07/xenoanabasis-13july18w.pdf
+pdftotext xenoanabasis-13july18w.pdf 
+take the vocab only, sometimes with first number, sometimes not...
+
+ἀλλά: but, yet, 39
+8 ἤδη: already, now, at this time, 10
+
+put that in a file called raw.txt
+
+Getting rid of first digit:
+sed s"/^[0-9]* //g" raw.txt > nopagenbr.txt
+
+getting rid of last page number
+sed s"/,\s*[0-9]*[0-9]$//" nopagenbr.txt > nolastpagenbr.csv
+
+open with libreoffice, set the field separator as :
+fix the eventual issues.
+save
+import in anki
+
+
+#####################
+
+Actually, let s use
+
+https://www.medschoolgurus.com/post/want-to-import-quizlet-decks-into-anki-here-s-how
+
+
+
+
+
