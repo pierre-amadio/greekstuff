@@ -17,7 +17,7 @@ sed s"/,\s*[0-9]*[0-9]$//" nopagenbr.txt > nolastpagenbr.csv
 
 open with libreoffice, set the field separator as :
 fix the eventual issues.
-save
+save (check the "edit filter" option check box so you can set ; as field delimiter)
 import in anki
 
 
