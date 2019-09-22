@@ -5,4 +5,31 @@ mp3:
 http://jeltzz.com/lingualatinaetgraeca.html
 http://www.latinperdiem.com/rouse-a-greek-boy-at-home/
 
+###############################
+First Greek Course
+
+* Chapter I:
+* Chapter II:
+
+Adjective
+
+                M               F               N
+Singular
+N           καλός               καλή            καλόν
+V           καλέ                καλή            καλόν
+A           καλόν               καλήν           καλόν
+G           καλοῦ               καλῆς           καλοῦ
+D           καλῷ                καλῇ            καλῷ
+
+Dual
+NVA         καλώ                καλά            καλώ
+GD          καλοῖν              καλαῖν          καλοῖν
+
+Plural
+NV          καλοί               καλαί           καλά
+A           καλούς              καλᾶς           καλά
+G           καλῶν               καλῶν           καλῶν
+D           καλοῖς              καλαῖς          καλοῖς
+
+
 
