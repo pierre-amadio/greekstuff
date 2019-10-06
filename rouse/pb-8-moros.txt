@@ -26,18 +26,33 @@ Si l'un ou l'autre pouvait donner sa version d'une phrase ou deux, j'en serais r
 L'idiot.
 
 01 et pendant que nous rigolions, un autre lui demanda
-02 "Oh toi, le plus sage des kobolds,  est ce ainsi que tu es silencieux ?"
-03 Ne dit-on donc pas ainsi des imbéciles qu'ils sont silencieux ?
-04 Et lui de dire "bien sur"
-05 L'autre: "Alors dis moi pourquoi n'es tu pas silencieux ?"
+02 "Oh toi, le plus sage des kobolds, sais tu garder le silence  ?"
+03 Ne dit-on pas des idiots qu'ils sont capable d'être silencieux ?
+04 Et lui de dire "bien sur !"
+05 L'autre: "Alors dis moi pourquoi ne te tais tu pas ?"
 06 Et lui:  "Mais je me tais, qu'est ce que tu racontes vilain ?"
-07 "Mais quoi, je suis silencieux "
+07 "Mais moi, j'arrive à me taire."
 08 L'imbécile dis "moi aussi"
 09 ainsi on attends de l'homme qu'il soit sage, plutôt qu'idiot
-10 et de l'enfant simplement silencieux, on attends la sagesse mais aussi la bêtise. 
+10 et de l'enfant difficilement silencieux, on attends la sagesse mais aussi la bêtise. 
 11 N'est ce pas merveilleux ?
 
 ###################################""
 https://www.sites.google.com/site/griegoencasa/textos/8
+
+Merci beaucoup, ca donne tout de suite autre chose:
+
+03 Ne dit-on pas des idiots qu'ils sont capable d'être silencieux ?
+04 Et lui de dire "bien sur !"
+05 L'autre: "Alors dis moi pourquoi ne te tais tu pas ?"
+06 Et lui:  "Mais je me tais, qu'est ce que tu racontes vilain ?"
+07 "Mais moi, j'arrive à me taire."
+
+Les phrases 9 et 10 me semblent liées, et restent un peu flou.
+Je crois que "σιωπῶν μόλις" signifie "difficilement silencieux", ou "à peine silencieux". C'est bien cela ?
+Pourquoi dans la phrase 10 n'y a t'il plus de "ἔδοχεν εἶναι" mais juste "ἔδοχεν" ?
+Je me serais attendu à ce que l'objet d'ἔδοχεν soit à l'accusatif et qu'on attende donc de l'enfant à la fois σοφὸν et μῶρον et non σοφὸς/μῶρος.
+
+
 
 
