@@ -5,6 +5,8 @@ http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0202
 Greek:
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0201
 
+easy selection
+https://archive.org/details/Esafx/esafx_1_001_011.mp3
 
 ###########################################
 audio:
