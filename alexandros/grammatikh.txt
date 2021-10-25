@@ -6,14 +6,15 @@ https://www.youtube.com/watch?v=0QLQAz0T3_0
 λέξις ἐστὶ μέρος ἐλάχιστον τοῦ κατὰ σύνταξιν λόγου.
 
 ὀκτὼ Λεξις μὴρη :
+
 τὸ ἄρθρον	article
 τὸ ὄνομα	name
 ἡ ἀντωνυμία	pronoun	
 τὸ ῥῆμα		verb		
 ἡ μετοχή	participle	
 ἡ πρόθεσις	preposition	
-ἐπίρρημα	adverb
-σύνδεσμος	conjunction
+τὸ ἐπίρρημα	adverb
+ὁ σύνδεσμος	conjunction
 
 τὰ γένη 
 ἀρσενικόν 
