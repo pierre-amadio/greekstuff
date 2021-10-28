@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=0QLQAz0T3_0
 τὸ ἐπίρρημα	adverb
 ὁ σύνδεσμος	conjunction
 
+# τό μόριον (μεν, οὖν): particule
+# τό ἐπίθετον (εστιν ὄνομα): adjectif
+# τό ἐπίφθεγμα (φεῦ): interjonction
+
 τὰ γένη 
 ἀρσενικόν 
 θηλυκόν
