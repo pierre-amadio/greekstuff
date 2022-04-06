@@ -40,4 +40,16 @@ Diceopoli non vive in Atene.
 Ὀ Δικαιόπολις ουκ οἰκεῖ ἐν ταῖς Ἀθήναις.
 
 ###############
+1b)
 
+1 Diceopoli e un contadino.
+Ὀ Δικαιόπολις αὐτουργὸς ἐστιν.
+
+2 Lavora sempre nel campo.
+ἀεὶ πονει εν τῷ ἀγρῷ.
+
+3 Spesso dunque e stanco; infatti il lavor e lungo.
+πολλάκις οὐν στενάζει, ὀ πόνος γάρ μακρός ἐστιν.
+
+4 Ma non indugia; infatti ama la casa.
+Αλλὰ ουκ ὀκνεῖ, φιλεῖ γάρ τὸν οἶκον.
