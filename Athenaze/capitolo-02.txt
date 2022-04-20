@@ -4,24 +4,41 @@ https://www.patreon.com/posts/34847332
 2a
 
 1 Τὸν δοῦλον καλῶ.
+  chiamo lo schiavo
 2 Ὁ δοῦλος ἐν τῷ οἴκῳ πονεῖ.
+  lo schiavo lavora in casa
 3 Διὰ τί οὐ σπεύδεις;
+  perché non hai fretta?
 4 Οὔκ εἰμι ἀργός.
+  non sono pigro
 5 Ἰσχυρος εἶ.
+  sei forte
 6 Τὸ ἄροτρον φέρει.
+  Porta l'aratro
 7 Πρὸς τὸν ἀγρὸν σπεύδω.
+  Mi affretto nei campi
 8 Διὰ τί καλεῖς τὸν δοῦλον;
+  perché chiami lo schiavo?
 9 Ὁ δοῦλος ἐστιν ἀργός.
+  Lo schiavo è pigro
 10 Ὁ δοῦλος ἐκβαίνει ἐκ τοῦ οἴκου.
+  Lo schiavo esce di casa
 
 2b
 1 Non s'affreta.
+  οὐ σπεύδει
 2 Perché non lavori ?
+  διὰ τί οὐ πονεῖς;
 3 Porto l'aratro.
+  φέρω τὸ ἄροτρον.
 4 Tu vai di fretta (=t'affreti) al campo.
+  σπεύδεις πρὸς τὸν ἀγρὸν.
 5 E pigro.
+  ἐστιν ἀργός.
 6 Io non son forte.
+  οὔκ εἰμι ἰσχυρος.
 7 Tu non sei uno schiavo.
+  οὔκ εἶ δοῦλος.
 8 Lo schiavo non lavora.
 9 Lo schiavo portal l'aratro verso il campo.
 10 Io son pigro.
