@@ -40,15 +40,23 @@ https://www.patreon.com/posts/34847332
 7 Tu non sei uno schiavo.
   οὔκ εἶ δοῦλος.
 8 Lo schiavo non lavora.
+  οὔκ πόνει ὁ δοὺλος.
 9 Lo schiavo portal l'aratro verso il campo.
+  Ὁ δοὺλος φέρει τὸ ἄροτρον πρὸς τὸν ἀργὸν.
 10 Io son pigro.
+  ἀργός εἰμι. 
 
 2c
 1 ἔκβαινε ἐκ τοῦ οἴκου, ὦ Χανθια, καὶ ἐλθὲ δεῦρο.
+  esci di casa Xantia e vieni qui.
 2 Μὴ κάθευδε, ὦ δοῦλε, ἀλλά πόνει.
+  Non dormi, schiavo, ma lavora.
 3 Μὴ οὕτω χαλεπὸς ἴσθι, ὦ δέσποτα.
+  Non essere così difficile maestro.
 4 Λάμβανε τὸ ἄροτρον καὶ σπεῦδε πρὸς τὸν ἀγρόν.
+  Prendi l'aratro e affrettati nel campo.
 5 κάλει τὸν δοὺλον, ὦ δέσποτα.
+  chiama lo schiavo o maestro.
 
 2d
 1 __ δοῦλον
