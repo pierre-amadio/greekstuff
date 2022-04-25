@@ -83,24 +83,35 @@ https://www.patreon.com/posts/34847332
   Ἑλθὲ δεῦρο καὶ συλλάμβανε.
 4 Ἐγὼ ἐλαύν__ τοὺς Βοῦς ἐκ τοῦ ἀργ__.
   Ἐγὼ ἐλαύνω τοὺς Βοῦς ἐκ τοῦ ἀγροῦ.
-5 Μὴ χαλεπος ἴσθι, ῶ δοῦλε, ἀλλα πόνε.
+5 Μὴ χαλεπ__ ἴσθι, ῶ δοῦλ__, ἀλλα πόν__.
+  Μὴ χαλεπος ἴσθι, ῶ δοῦλε, ἀλλὰ πόνε.
 
 2f
 1 Ὁ δοῦλος οὐκ ἔστιν Ἀθεναῖος.
+Lo schiavo non è ateniese.
 Santia non è forte.
+Ὁ Ξανθίας οὔκ ἐστιν ισχθρὸς.
 
 2 Ὁ Δικαιόπολις ἐκβαίνει ἐκ τοῦ οἰκου καὶ καλεῖ τὸν δοῦλον.
+Dikaiopolis esce du casa e chiama lo schiavo.
 Lo schiavo va di fretta (=s'affretta) al campo e porta l'aratro.
+Ὁ δοῦλος σπεύδε πρὸς τον ἀγρόν και φέρει τὸ ἄροτρον.
 
 3 Ὁ δοῦλος οὐ συλλαμβάνει ἀλλὰ καθεύδει ὑπὸ τῷ δένδρῳ.
+Lo schiavo non aiuta ma dorme sotto l'albero.
 L'uomo non lavora ma cammina verso la casa.
+Ὁ ἄνθρωπος οὔ πονεῖ αλλα βαδίζει πρὸς τὸν οἶκον.
 
 4 Εἴσελθε εἰς τὸν οἶκον, ὦ Ξανθία, καὶ φέρε τὸν σῖτον.
+Entra nella casa, oh Xantias, e porta il cibo.
 Affréttati, schiavo, e porta fuori (ἐξελαύνω) i buoi.
+Σπευδε ῶ δοῦλε καὶ ἐξελαύνε τοὺς βοῦς.
 
 5 Μὴ κάθευδε, ὦ Ξανθία, ἀλλὰ πόνει.
+Non dormire, Xantia, ma lavora.
 Non venir qua, uomo, ma lavora nel campo.
-
+Μὴ ἐλθὲ δεῦρο, ὦ ἄνθρωπε, αλλα πόνει εἰσ τὸν ἀγρόν.
+ 
 2g
 
 1 Diceopolis non lavora piu (οὐκέτι) ma scioglie i buoi.
