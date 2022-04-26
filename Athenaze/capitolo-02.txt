@@ -115,8 +115,11 @@ Non venir qua, uomo, ma lavora nel campo.
 2g
 
 1 Diceopolis non lavora piu (οὐκέτι) ma scioglie i buoi.
+Ὁ Δικαιόπολις οὐκέτι πόνει αλλὰ λύει τούς βοῦς
 2 E poi chiama lo schiavo e dice:"Non lavorar piu (μηκέτι) ma vieni qua e porta l'aratro; infatti, io conduco verso la casa i buoi, tu (σύ) invece portq l'aratro!"
-3 Diceopolis dunque porta i buoi fuori del campo, (μέν...δὲ)e lo schiavo predre l'aratro e lo porta verso la casa.
+ἔπειτα καλεῖ το δοῦλόν καὶ λέγει: μηκέτι πονε αλλὰ ἐλθὲ δεῦρο καὶ φέρε τὸ ἄροτρον.
+3 Diceopolis dunque porta i buoi fuori del campo, (μέν...δὲ)e lo schiavo prende l'aratro e lo porta verso la casa.
+Ὁ Δικαιόπολις μεν ἐλαύνει τούς βοῦς ἐκ τοῦ ἀγροῦ, ὁ δοῦλος δέ λαμβάνει τὸ ἄροτρον καὶ φερει προς τον οἶκον. 
 
 ###############
 

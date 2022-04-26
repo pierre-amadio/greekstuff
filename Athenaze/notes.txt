@@ -1,6 +1,8 @@
 https://www.patreon.com/posts/36186862
 Lucian pronunciation records.
 
+ffmpeg -i foo.m4a -acodec libmp3lame -aq 2 bar.mp3
+
 https://www.youtube.com/watch?v=JTWKpNy96EM&ab_channel=pol%C3%BDMATHY
 extensive reading
 Step 1: Read at the Speed of Speech
