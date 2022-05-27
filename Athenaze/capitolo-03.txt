@@ -34,8 +34,11 @@ I buoi dormono nel campo.
 Οἱ βόες καθεύδουσιν ἐν τῷ αγρῷ.
 
 Venite qui e portate fuori (ἐξελαύνω) i buoi, schiavi (ῶ δοὺλοι).
+Ἐλθετε δεῦρο καὶ ἐξελαύνετε τοὺς βοῦς, ῶ δοὺλοι.
 
-Essi predono il pungolo (τὁ κέντρον) e s'avvicinano lentamente ai buoi (τοῖς βουσί[ν]).
+Essi prendono il pungolo (τὁ κέντρον) e s'avvicinano lentamente ai buoi (τοῖς βουσί[ν]).
+λαμβανουσι τὸ κέντρον καὶ βραδέως προσχωρουσιν τοῖς βουσί.
+λαμβανουσι τὸ κέντρον καὶ βραδέως προσχωρουσιν πρὸς τοὺς βοῦς.
 
 Affrettatevi, buoi, non dormite nel campo.
 
