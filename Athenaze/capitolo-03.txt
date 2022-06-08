@@ -109,8 +109,10 @@ Il padrone chiama gli schiai ma (μέν...δέ) gli schiavi non portano i buoi.
 
 2)
 Μὴ καθίζετε ἐν τῷ οἴκῳ, ὦ παῖδες, ἀλλὰ ἔλθετε δεῦρο καὶ συλλαμβάνετε.
+Non sedetevi a casa raggazi, ma venite qui e aiutate.
 
 Non rimaete nei campi, raggazi, ma camminate verso la casa e dormite.
+Μὴ μένετε ἐν τῷ ἀγρῷ, ὦ παῖδες, ἀλλὰ ϐαδίζετε πρὸς τὸν οἶκον καὶ καθεύδετε.
 
 3)
 Οἱ παῖδες ἰσχῦροι εἰσιν. λίθους γὰρ μεγάλους φέρουσιν.
@@ -146,5 +148,4 @@ Ma (δέ) lo schiavo dice: "Non e possibile portar tante pietre furoi del campo.
 ###############
 ###############
 ###############
-
 
