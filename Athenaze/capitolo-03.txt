@@ -105,7 +105,7 @@ __ δούλους.
 Diceopoli guida i buoi ma i buoi non tirano più l'aratro.
 
 Il padrone chiama gli schiai ma (μέν...δέ) gli schiavi non portano i buoi.
-ὁ δεσπότης μέν καλεῖ τοῦς δοῦλους, οἱ δοῦλοι δέ ουκ ἐλαύνουσιν τοὺς βοῦς.
+ὁ μέν δεσπότης καλεῖ τοῦς δοῦλους, οἱ δέ δοῦλοι ουκ ἐλαύνουσιν τοὺς βοῦς.
 
 2)
 Μὴ καθίζετε ἐν τῷ οἴκῳ, ὦ παῖδες, ἀλλὰ ἔλθετε δεῦρο καὶ συλλαμβάνετε.
@@ -116,15 +116,24 @@ Non rimaete nei campi, raggazi, ma camminate verso la casa e dormite.
 
 3)
 Οἱ παῖδες ἰσχῦροι εἰσιν. λίθους γὰρ μεγάλους φέρουσιν.
+i bambini sono forti, anzi portano grosse pietre
+
 Gli schiavi son pigri, infatti no lavorano piu.
+οἱ δουλοῖ ἀργοί εἰσιν, οὐκετι γάρ πονοῦσιν .
 
 4)
-Λαμβάνετε τὰ ἄροτρα, ὦ φίλοι, καὶ  σπεύδετε πρὸς τοὺς ἀγρούς.
+Λαμβάνετε τὰ ἄροτρα, ὦ φίλοι, καὶ σπεύδετε πρὸς τοὺς ἀγρούς.
+Prendete gli aratri, amici, e affrettatevi nei campi.
+
 Sciogliete i buoi, schiavi, e lasciate gli aratri nel campo.
+λυετε τοὺς βοῦς, ὦ δοῦλοι, καὶ λείπετε τὰ ἄροτρα ἐν τῷ ἀγρῷ.
 
 5)
 Διὰ τί φεύγετε, ὦ παῖδες ; ἀνδρεῖοι ἔστε.
+Perché scappate, ragazzi ? Sei coraggioso.
+
 Perche aspettate, ragazzi ? Non siate pigri !
+Διὰ τί μένετε, ὦ παῖδες ; Μὴ εστε ἀγροί.
 
 ###############
 3g
