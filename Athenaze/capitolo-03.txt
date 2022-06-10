@@ -138,9 +138,11 @@ Perche aspettate, ragazzi ? Non siate pigri !
 ###############
 3g
 
-1) Il padrone va di fretta verso il campo
+1) Il padrone va di fretta verso il campo.
+ὁ δεσπότης σπεύδε πρὸς τον ἀγρόν.
 
-2) Egli guarda verso il campo e dice: "ci son tate pietre nel campo ! Non e possibile arare. Vieni qui, o schiavo, e porta le pietre fuori del campo!"
+2) Egli guarda verso il campo e dice: "ci son tante pietre nel campo ! Non e possibile arare. Vieni qui, o schiavo, e porta le pietre fuori del campo!"
+βλέπει πρὸς τον ἀγρόν καὶ λεγει «πολλαί πέτραι εἰσιν ἐν τῷ αγρῷ. οὐ δυνατόν ἐστιν ἀροτρεύειν. Ἐλθὲ δεῦρο, ὦ δοῦλε, και αἵρει αἱ πέτραι ἐκ τοῦ ἀγρου. » 
 
 3)
 Ma (δέ) lo schiavo dice: "Non e possibile portar tante pietre furoi del campo. Aiutami dunque tu !"
