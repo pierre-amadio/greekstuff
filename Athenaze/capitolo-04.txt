@@ -107,8 +107,10 @@ p82
 ἐγώ κὰι ὁ δοῦλος σπεύδουσιν πρὸς τόν ἀγρόν. Ἀλλά ἄκουε.
 
 4) "Gli ateniesi infatti fanno un a festa; desideri vederla ?"
+Οἱ γὰρ Ἀθηναῖοι ποιοῦσιν ἑορτήν. Ἆρα ἐθέλεις θεωρεῖν αὐτήν ; 
 
 5) "Io desidero molitssimo  vederla; dunque non andare (μὴ ἴθι) al campo ma conducimi alla citta (τὸ αστυ".
+
 
 ###############
 
