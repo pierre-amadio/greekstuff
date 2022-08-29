@@ -5,13 +5,13 @@ p 105
 ###############
 5b
 
-τιμᾶτε
-φιλοῦσιν
-ὁρῶμεν
-οἰκεῖτε
-ποιοῦμεν
-βοῶσιν
-ὀρᾶτε
+τιμᾶτε τιμᾷς,τιμα
+φιλοῦσιν φιλεῖ
+ὁρῶμεν ὁρῶ
+οἰκεῖτε οἰκεῖς
+ποιοῦμεν ποιῶ 
+βοῶσιν βοῶ
+ὀρᾶτε ὀρᾷις,ὀρα
 πονοῦσιν
 
 ###############
@@ -61,17 +61,23 @@ no esser cosi duro, nonno: infatti non (ci) ho colpa (non son colpevole) io.
 9) ἄγριος μὲν ὁ λύκος καί μέγας, ὁ δὲ παῖς τὴν μάχαιραν λαμβάνει καὶ τύπτει αὐτόν.
 10) ὁ μὲν πάππος ἤδη πάρεστιν, ὁ δὲ φίλιππος τὴν μάχαιραν αὐτοῦ λαμβάνει καὶ ἀποκτέινει τὸν λύκον.
 
+1) che cercano filippo e suo padre ?
+2) dove vedono il gregge ? che fanno le pecore?
+3) che vede filippo quando s'avvieina al gregge ?
+4) che cosa esorta a fare suo padre ?
+5) che fa diceopoli ?
+6) filippo ubbidisce a suo padre ?
+7) che fa argo ? Con che risultato ?
+8) che fanno filippo e suo padre alla fine della storia ?
+
+###############
+5g) 
+
+1) Non vediamo molti lupi sulle colline, e di rado essi scendono nei campi.
+2) Dunque ci stupiamo che filippo abbia ammazzato (ἀπέκτονε) un lupo.
+3) Il ragazzo e buono e guarda bene (εὖ) le pecore, ma non dice sempre la veria (τὰ ἀληθῆ).
+4) Dunque abbiamo intenzione d'andar di fretta all collina e cercar la carogna (ὁ νεκρός).
 
 
-###############
-###############
-###############
-###############
-###############
-###############
-###############
-###############
-###############
-###############
 ###############
 
