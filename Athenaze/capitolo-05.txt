@@ -89,12 +89,24 @@ Sto cercando il mio cane, padre. È scappato lungo la strada e non vuole tornare
 Coraggio ragazzo, perché sento la sua voce. Quindi cercalo.
 
 8) ὁρῶ αὐτον ἐπὶ ἄκρῳ τῷ ὄρει. ἰδού, νῦν τρέχει πρὸς ἡμᾶς.
+Lo vedo in cima alla montagna. Ecco, ora corre verso di noi.
+
 9) ἄγριος μὲν ὁ λύκος καί μέγας, ὁ δὲ παῖς τὴν μάχαιραν λαμβάνει καὶ τύπτει αὐτόν.
+Il lupo è grande e selvaggio, ma il ragazzo prende il coltello e lo colpisce.
+
 10) ὁ μὲν πάππος ἤδη πάρεστιν, ὁ δὲ φίλιππος τὴν μάχαιραν αὐτοῦ λαμβάνει καὶ ἀποκτέινει τὸν λύκον.
+Il nonno è già presente e il ragazzo prende il suo coltello e uccide il lupo.
 
 1) che cercano filippo e suo padre ?
+ζητοῦσιν τὰ πρόβατα.
+
 2) dove vedono il gregge ? che fanno le pecore?
+βλεπουσιν τὰ πρόβατα εἰς ἄκρον τὸ ὄρος. 
+τὰ πρόβατα μένει πρὸς τῇ ὁδῷ καὶ πολὺν θόρυβον ποιεῖ.
+
 3) che vede filippo quando s'avvieina al gregge ?
+ὁρᾷ λύκον μέγαν.
+
 4) che cosa esorta a fare suo padre ?
 5) che fa diceopoli ?
 6) filippo ubbidisce a suo padre ?
