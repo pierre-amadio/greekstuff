@@ -98,10 +98,10 @@ Il lupo è grande e selvaggio, ma il ragazzo prende il coltello e lo colpisce.
 Il nonno è già presente e il ragazzo prende il suo coltello e uccide il lupo.
 
 1) che cercano filippo e suo padre ?
-ζητοῦσιν τὰ πρόβατα.
+ζητοῦσι τὰ πρόβατα.
 
 2) dove vedono il gregge ? che fanno le pecore?
-βλεπουσιν τὰ πρόβατα εἰς ἄκρον τὸ ὄρος. 
+βλεπουσι τὰ πρόβατα εἰς ἄκρον τὸ ὄρος. 
 τὰ πρόβατα μένει πρὸς τῇ ὁδῷ καὶ πολὺν θόρυβον ποιεῖ.
 
 3) che vede filippo quando s'avvieina al gregge ?
@@ -111,16 +111,23 @@ Il nonno è già presente e il ragazzo prende il suo coltello e uccide il lupo.
 ὁ πατήρ φεσιν σπευδειν κατὰ τὴν ὁδόν καὶ γιγνωσκειν τί πάσκει τὰ πρόβατα
 
 5) che fa diceopoli ?
-
+ὁ Δικαιόπολις μεν λύων τὸν κύνα κελέυει αυτῷ διώκειν τὸν λύκον, τῷ φίλλιπῷ δε κελέυει μένειν ἐνταῦθα.
 
 6) filippo ubbidisce a suo padre ?
+ναὶ, ὸ φίλλιπος μένει πρὸς τῇ ὁδῷ.
+
 7) che fa argo ? Con che risultato ?
+ὁ κύων ὐλακτεῖ καὶ ὁρμᾷ ἀγρίως ἐπὶ τὸν λύκον.
+ὁ λύκος ἀποφεύγει.
+
 8) che fanno filippo e suo padre alla fine della storia ?
+ἐλαύνουσι τὰ πρόβατα οἴκαδε.
 
 ###############
 5g) 
 
 1) Non vediamo molti lupi sulle colline, e di rado essi scendono nei campi.
+
 2) Dunque ci stupiamo che filippo abbia ammazzato (ἀπέκτονε) un lupo.
 3) Il ragazzo e buono e guarda bene (εὖ) le pecore, ma non dice sempre la veria (τὰ ἀληθῆ).
 4) Dunque abbiamo intenzione d'andar di fretta all collina e cercar la carogna (ὁ νεκρός).
