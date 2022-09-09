@@ -127,6 +127,7 @@ Il nonno è già presente e il ragazzo prende il suo coltello e uccide il lupo.
 5g) 
 
 1) Non vediamo molti lupi sulle colline, e di rado essi scendono nei campi.
+ουκ ορῶμεν πολλούς λυκούς ἐν τοῖς ὄρεσιν, καὶ σπᾶνίως καταβαίνουσιν έν τοῖς αγροῖς.
 
 2) Dunque ci stupiamo che filippo abbia ammazzato (ἀπέκτονε) un lupo.
 3) Il ragazzo e buono e guarda bene (εὖ) le pecore, ma non dice sempre la veria (τὰ ἀληθῆ).
