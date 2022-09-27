@@ -86,7 +86,7 @@ siediti con noi, ragazzo, e dimmi che ti succede.
 Sto cercando il mio cane, padre. È scappato lungo la strada e non vuole tornare.
 
 7) θάρρει, ὦ παῖ. ἐγὼ γὰρ τὴν φωνὴν αὐτοῦ ἀκούω. ζήτει οὖν αὐτόν.
-Coraggio ragazzo, perché sento la sua voce. Quindi cercalo.
+Coraggio ragazzo, perché sento la sua voce. Dunque cercalo.
 
 8) ὁρῶ αὐτον ἐπὶ ἄκρῳ τῷ ὄρει. ἰδού, νῦν τρέχει πρὸς ἡμᾶς.
 Lo vedo in cima alla montagna. Ecco, ora corre verso di noi.
@@ -130,7 +130,11 @@ Il nonno è già presente e il ragazzo prende il suo coltello e uccide il lupo.
 ουκ ορῶμεν πολλούς λυκούς ἐν τοῖς ὄρεσιν, καὶ σπᾶνίως καταβαίνουσιν έν τοῖς αγροῖς.
 
 2) Dunque ci stupiamo che filippo abbia ammazzato (ἀπέκτονε) un lupo.
+θαυμάζομεν οὖν ὅτι ὁ φίλιππος ἀπέκτονε λύκον.
+
 3) Il ragazzo e buono e guarda bene (εὖ) le pecore, ma non dice sempre la veria (τὰ ἀληθῆ).
+ὁ παῖς κἄλλος ἐστιν καὶ εὖ θεωρέῖ τὰ πρόβατα, ἀλλά οὐκ ἀεί λεγεῖ τὰ ἀληθῆ.
+
 4) Dunque abbiamo intenzione d'andar di fretta all collina e cercar la carogna (ὁ νεκρός).
 
 
