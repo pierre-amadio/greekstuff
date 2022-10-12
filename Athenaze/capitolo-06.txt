@@ -87,8 +87,39 @@ p 130
 10 Ἔστι τῷ παιδὶ καλὸς κύων.
 ###############
 6l
+
+1 Non sei disposto a ubbidirmi ragazzo ?
+2 Raccontami (λέγε) la storia.
+3 Ti do l'aratro.
+4 Il contadino da un gran bove (usate il dativo)
+5 Il giovinetto (ὁ νεανίας), di nome Teseo, guida corragiosamente i compagni.
+6 il ragazzo colpisce il lupo con una pietra.
+7 la ragazza da il cibo all amico.
+8 lo schiavo comisce i buoi col pungolo (τὸ κέντρον).
+9 la ragazza s avvicina alle porte.
+10 il giorno dopo gli ateniesi scappano furoi del labirinto.
+
 ###############
 6m
+
+1
+Ὁ Θησεὺς βούλεται τοὺς έταίρους σῴζειν.
+Egeo ha molta paura ma gli ubbidisce.
+2
+Οἱ μὲν Ἁθηναῖοι ἀφικνοῦνται εὶς τὴν νῆσον, ὁ δὲ βασιλεὺς δέχεται αὐτούς.
+I compagni han molta paura, ma Teseo li guida  corraggiosamente.
+3
+Μὴ μάχεσθε, ὦ φίλοι, μηδὲ βοᾶτε ἀλλὰ σιγᾶτε
+Non abbiate paura del minotauro, amici, ma siate coraggiosi.
+4
+Ἐπεὶ νὺξ γίγνεται, ἡ παρθένος ἔρχεται πρὸς τας πύλας.
+Quando si fa giorno, la nave arriva nell isola.
+5
+Ἐπεὶ ὁ θησεὺς ἀποκτείνει τὸν Μινώταυρον, ἐπόμεθα αὑτῷ ἐκ τοῦ λαβυρίνθου.
+Quando viaggiamo verso Creata, vediamo molte isole.
+
+
+
 ###############
 6n
 ###############
