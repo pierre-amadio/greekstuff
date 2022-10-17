@@ -6,13 +6,25 @@ p 130
 
 1:
 Τὸν κύνα λούω.
+lavo il cane.
+
 Ἡμεῖς λουομεθα.
+ci laviamo
+
 2:
 Ἡ μήτηρ τὸν παῖδα ἐγείρει.
+la madre sveglia il ragazzo.
+
 Ὁ παῖς ἐγείρεται.
+il ragazzo si sveglia
+
 3:
 Ὁ δεσπότης τὸν δοῦλον τοῦ πόνου παύει.
+il padrone fa fermare il lavoro degli schiav
+
 Τοῦ πόνου παύομαι.
+smetto di lavorare
+
 4:
 Ὁ δοῦλος τοὺς λίθους αἴρει.
 Ὁ δοῦλος ἐγείρεται καὶ ἐπαίρει ἑαυτόν.
@@ -118,9 +130,24 @@ Quando si fa giorno, la nave arriva nell isola.
 Ἐπεὶ ὁ θησεὺς ἀποκτείνει τὸν Μινώταυρον, ἐπόμεθα αὑτῷ ἐκ τοῦ λαβυρίνθου.
 Quando viaggiamo verso Creata, vediamo molte isole.
 
-
+1) per dove salpano reseo e i suoi ?
+2) che fanno per prima cosa quando arrivano la ?
+3) perche teseo non dorme ?
+4) che dice ai suoi teseo quando li sveglia ?
+5) che vede arianna quando si sveglia ?
+6) che grida ?
 
 ###############
 6n
+
+1
+Mentre (ἑν ᾧ) arianna (l') invoca, il dio (ὁ θεὸς) dionisio (ὁ διόνυσος) guarda dal ceilo (ὸ οὐρανός) verso la terra; egli vede dunque arianna e s innamora di lei.
+2
+vola (πέτεται) dunque dal cielo alla terra. E quando arriva all isola s'avvicina a lei e dice: "arianna, non aver paura ! Infatti son qua io, dionisio, t'amo e (ti) voglio salvare: vieni con me in cielo."
+3
+arianna dunque si rallegra e va da lui.
+4
+dioniso dunque la porta su (ἀναφέρει) in cielo; e arianna diventa una dea (θεά) e rimane per sempre (εἰσαεί) in cielo.
+
 ###############
 
