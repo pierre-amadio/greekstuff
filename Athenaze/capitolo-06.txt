@@ -20,27 +20,34 @@ il ragazzo si sveglia
 
 3:
 Ὁ δεσπότης τὸν δοῦλον τοῦ πόνου παύει.
-il padrone fa fermare il lavoro degli schiav
+il padrone fa fermare il lavoro dello schiavo
 
 Τοῦ πόνου παύομαι.
 smetto di lavorare
 
 4:
 Ὁ δοῦλος τοὺς λίθους αἴρει.
+lo schiavo solleva le pietre
+
 Ὁ δοῦλος ἐγείρεται καὶ ἐπαίρει ἑαυτόν.
+Lo schiavo si sveglia e si alza
+
 5:
-Οἱ παῖδες τὸν τρόχον τρέπουσιν.
+Οἱ παῖδες τὸν τρόχον τρέπουσιν
+i ragazzi girano la ruota.
+
 Ὁ δοῦλος πρὸς τὸν δεσπότην τρέπεται.
+Lo schiavo si volta verso il padrone.
 
 ###############
 6d
 
-1 λύομαι
-2 βούλεται
-3 δέχῃ
-4 φοβοῦμαι
-5 ἀφικνεῖται
-6 γίγνομαι
+1 λύομαι λύομεν
+2 βούλεται βούλονται
+3 δέχῃ δέχεσθε
+4 φοβοῦμαι φοϐούμεθα 
+5 ἀφικνεῖται ἀφικνοῦνται
+6 γίγνομαι γιγνόμεθα
 
 ###############
 6e
