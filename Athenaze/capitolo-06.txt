@@ -74,11 +74,15 @@ Il re ci riceve.
 6g
 
 1 Vogliamo rimanere.
+ϐουλόμεθα μενεῖν.
 2 Non ho paura di te.
+οὐ φοϐοῦμαι σε.
 3 Arrivano nell'isola.
+ἀφικνοῦνται εἰς τὴν νῆσον.
 4 Non abbiate paura, amici!
+μή φοϐεῖσθε, φίλοι.
 5 Diventano pigri.
-
+ἄγροί γίγνονται 
 ###############
 6h
 
