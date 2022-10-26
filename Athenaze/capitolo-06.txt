@@ -127,22 +127,55 @@ i ragazzi corrono su per il sentiero.
 le ragazze si siedono sotto l'albero
 
 11 Ὁ κύων ὁρμᾶται ἐπὶ (ὁ λύκος).
+ Ὁ κύων ὁρμᾶται ἐπὶ τὸν λύκον.
+il cane si precipita contro il lupo.
 
 12 Οἱ ἐταῖροι εἰς (ὸ λαβύρινθος) εἰσέρχονται.
-
+Οἱ ἐταῖροι εἰς τὸν λαβύρινθον εἰσέρχονται.
+I compagni entrano nel labirinto
 ###############
 6i
 
 1 ὁ ἀνὴρ ὑμῖν οὐ πείθεται.
+ὑμῖν
+L'uomo non ci obbedisce
+
 2 πείθεσθέ μοι, ὦ παῖδες.
+μοι
+Obbedite a me, ragazzi!
+
 3 Πάρεχέ μοι τὸ ἄροτρον.
+μοι
+Dammi l'aratro
+
 4 Τὁν μῦθον τῷ παιδὶ λέγω.
+τῷ παιδὶ
+Racconto la storia al bambino
+
 5 Ἔστι τῷ αὐτουγρῷ ἄροτρον.
+τῷ αὐτουγρῷ
+È l'aratro del contadino
+
 6 Ὁ αὐτουγρός, Δικαιόπολις ὀνόματι, τοῖς Βουσὶν εἰς τὸν ἀργὸν ἡγεῖται.
+τοῖς Βουσὶν
+Le paysan, nommé Dikaiopolis, mène les boeufs au champ.
+
 7 Ὁ παῖς τὸν λύκον λίθοις βάλλει.
+λίθοις
+Il ragazzo lancia pietre contro il lupo.
+
 8 Ἡ γυνὴ τῷ ἀνδρὶ πολὺν σῖτον παρέχει.
+τῷ ἀνδρὶ
+La donna dà molto cibo all'uomo.
+
 9 Ὁ δεσπότης τοὺς δούλους τοσαύτῃ βοῇ καλεῖ ὥστε φοβοῦνται.
+τοσαύτῃ βοῇ
+Il padrone chiama gli schiavi con un grido così forte che si spaventano
+
 10 Ἔστι τῷ παιδὶ καλὸς κύων.
+τῷ παιδὶ
+Il ragazzo ha un buon cane.
+
 ###############
 6l
 
