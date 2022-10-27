@@ -154,7 +154,7 @@ Racconto la storia al bambino
 
 5 Ἔστι τῷ αὐτουγρῷ ἄροτρον.
 τῷ αὐτουγρῷ
-È l'aratro del contadino
+il contadino ha un aratro
 
 6 Ὁ αὐτουγρός, Δικαιόπολις ὀνόματι, τοῖς Βουσὶν εἰς τὸν ἀργὸν ἡγεῖται.
 τοῖς Βουσὶν
@@ -180,9 +180,15 @@ Il ragazzo ha un buon cane.
 6l
 
 1 Non sei disposto a ubbidirmi ragazzo ?
+οὐκ ἐθέλεις πείθειν μοι, ὦ παῖδε ;
+
 2 Raccontami (λέγε) la storia.
+λέγε μοι τὸν μῦθον. 
+
 3 Ti do l'aratro.
-4 Il contadino da un gran bove (usate il dativo)
+παρέχομαι σοί τὸ ἄροτρον.
+
+4 Il contadino ha un gran bove (usate il dativo)
 5 Il giovinetto (ὁ νεανίας), di nome Teseo, guida corragiosamente i compagni.
 6 il ragazzo colpisce il lupo con una pietra.
 7 la ragazza da il cibo all amico.
