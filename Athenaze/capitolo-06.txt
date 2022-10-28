@@ -189,9 +189,17 @@ Il ragazzo ha un buon cane.
 παρέχομαι σοί τὸ ἄροτρον.
 
 4 Il contadino ha un gran bove (usate il dativo)
+ Ἔστι τῷ αὐτουγρῷ ϐοῦν μέγαλον.
+
 5 Il giovinetto (ὁ νεανίας), di nome Teseo, guida corragiosamente i compagni.
+ὁ νεανίας, ὀνόματι θησεύς, ἀνδρείως ἐλαῡ́νει τοὖς ἑταίρους.
+
 6 il ragazzo colpisce il lupo con una pietra.
+ὅ παῖς τύπτει τὸν λύκον πέτρῷ.
+
 7 la ragazza da il cibo all amico.
+ἡ κόρη παρέχει τὸν σῖτον φιλῷ.
+
 8 lo schiavo comisce i buoi col pungolo (τὸ κέντρον).
 9 la ragazza s avvicina alle porte.
 10 il giorno dopo gli ateniesi scappano furoi del labirinto.
