@@ -198,10 +198,14 @@ Il ragazzo ha un buon cane.
 ὅ παῖς τύπτει τὸν λύκον πέτρῷ.
 
 7 la ragazza da il cibo all amico.
-ἡ κόρη παρέχει τὸν σῖτον φιλῷ.
+ἡ κόρη παρέχει τὸν σῖτον τῷ φιλῷ.
 
 8 lo schiavo comisce i buoi col pungolo (τὸ κέντρον).
+ὁ δοῦλος ἄγει (ἐλαύνει?) τοῦς βοῦς τῷ κέντρῷ.
+
 9 la ragazza s avvicina alle porte.
+ἡ κόρη ἔρχεται πρὸς τάς πύλας. 
+
 10 il giorno dopo gli ateniesi scappano furoi del labirinto.
 
 ###############
