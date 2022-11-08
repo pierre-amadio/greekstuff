@@ -207,13 +207,18 @@ Il ragazzo ha un buon cane.
 ἡ κόρη ἔρχεται πρὸς τάς πύλας. 
 
 10 il giorno dopo gli ateniesi scappano furoi del labirinto.
+τῇ ὑστεραίᾳ οἱ Ἀθηναῖοι φεύγουσιν ἐκ τοῦ λαβυρίνθου.
 
 ###############
 6m
 
 1
 Ὁ Θησεὺς βούλεται τοὺς έταίρους σῴζειν.
+Teseo vuole salvare i compagni.
+
 Egeo ha molta paura ma gli ubbidisce.
+ὁ Αἰγεὺς μάλιστα φοϐεῖται ἀλλά πείθεται αὐτῷ.
+
 2
 Οἱ μὲν Ἁθηναῖοι ἀφικνοῦνται εὶς τὴν νῆσον, ὁ δὲ βασιλεὺς δέχεται αὐτούς.
 I compagni han molta paura, ma Teseo li guida  corraggiosamente.
