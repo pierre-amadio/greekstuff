@@ -221,10 +221,18 @@ Egeo ha molta paura ma gli ubbidisce.
 
 2
 Οἱ μὲν Ἁθηναῖοι ἀφικνοῦνται εὶς τὴν νῆσον, ὁ δὲ βασιλεὺς δέχεται αὐτούς.
-I compagni han molta paura, ma Teseo li guida  corraggiosamente.
+Gli Ateniesi arrivano sull'isola e il re li riceve.
+
+I compagni han molta paura, ma Teseo li guida corraggiosamente.
+οἱ ἑταῖροι μάλλιστα φοϐοῦνται ἀλλὰ ὁ Θησεὺς ἄγει αῦτούς ἀνδρείως.
+
 3
 Μὴ μάχεσθε, ὦ φίλοι, μηδὲ βοᾶτε ἀλλὰ σιγᾶτε
+Non combattere, amici, né gridare, ma taci.
+
 Non abbiate paura del minotauro, amici, ma siate coraggiosi.
+Μὴ φοϐεῖσθε τῷ μινωταύρῳ (ὐπό τοῦ μινωταύρου ?), ὦ φίλοι, ἀλλὰ ἀνδρείως ἴσθι.
+
 4
 Ἐπεὶ νὺξ γίγνεται, ἡ παρθένος ἔρχεται πρὸς τας πύλας.
 Quando si fa giorno, la nave arriva nell isola.
