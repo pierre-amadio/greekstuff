@@ -235,10 +235,18 @@ Non abbiate paura del minotauro, amici, ma siate coraggiosi.
 
 4
 Ἐπεὶ νὺξ γίγνεται, ἡ παρθένος ἔρχεται πρὸς τας πύλας.
+dopo il tramonto, la ragazza si dirige verso le porte.
+
 Quando si fa giorno, la nave arriva nell isola.
+ἐπεὶ ἡμέρα γίγνεται, ἡ ναῦς ἀφικνεῖται εἰς τὴν νῆσον.
+
 5
 Ἐπεὶ ὁ θησεὺς ἀποκτείνει τὸν Μινώταυρον, ἐπόμεθα αὑτῷ ἐκ τοῦ λαβυρίνθου.
+Dopo che Teseo uccide il minotauro, si dirige fuori dal labirinto.
+
 Quando viaggiamo verso Creata, vediamo molte isole.
+
+
 
 1) per dove salpano reseo e i suoi ?
 2) che fanno per prima cosa quando arrivano la ?
